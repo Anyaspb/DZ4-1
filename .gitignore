@@ -1,0 +1,5 @@
+/tmp
+*old
+.DS_Store
+.Thumbs
+*backup
